@@ -1,6 +1,5 @@
 using HTTP
 using JSON
-using Printf
 
 function main()
     
